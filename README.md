@@ -27,11 +27,11 @@ Este proyecto se basa en JavaScript y HTML. Puedes modificar o mejorar el chatbo
 
 ## Contribuciones
 
-¡Eres bienvenido(a) a contribuir a este proyecto! Si tienes ideas de mejora o correcciones, siéntete libre de hacer un fork del repositorio, hacer tus cambios y enviar un pull request. Agradecemos tu colaboración.
+¡Eres bienvenido(a) a contribuir a este proyecto! Si tienes ideas de mejora o correcciones, siéntete libre de hacer un fork del repositorio, hacer tus cambios y enviar un pull request. Agradezco tu colaboración.
 
 ## Contacto
 
-Para cualquier pregunta o comentario, no dudes en ponerte en contacto con nosotros:
+Para cualquier pregunta o comentario, no dudes en ponerte en contacto conmigo:
 
 - Nombre: John Reyes
 - Correo electrónico: reyeswilliam3@gmail.com
